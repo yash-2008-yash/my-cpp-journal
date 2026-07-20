@@ -7,6 +7,8 @@ You declare it like this:
 int number1 = 80;
 ```
 
+There are some rules to name a variable that you must follow. Click [here]() to know those rules.
+
 Not just numbers, you can store many things, too. You're gonna see it.
 
 ---
