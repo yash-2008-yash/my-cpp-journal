@@ -18,7 +18,7 @@ There are a **LOT** of data types in C++, so be ready for a wild ride!
 
 <ins>Fundamental Data Types *(Built-in)*</ins>
 
-- [Integer types](./READMEs/Fundamental%20Data%20Types/Fundamental%20Data%20Types/Integer%20Types.md)
+- [Integer types](./READMEs/Fundamental%20Data%20Types/Integer%20Types.md)
 - [Floating-point types](./READMEs/Fundamental%20Data%20Types/Floating%20Point%20Types.md)
 - [Character types](./READMEs/Fundamental%20Data%20Types/Character%20Types.md)
 - [Boolean type](./READMEs/Fundamental%20Data%20Types/Boolean%20Type.md)
