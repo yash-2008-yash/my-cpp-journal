@@ -35,7 +35,7 @@ std::cout << "\033[9m" << "I think I am striked out" << "\033[0m" << std::endl;
 ```
 The output will be:  
 
-![Styled Text Example](/assets/styled-text-example.png)
+![Styled Text Example](../assets/styled-text-example.png)
 
 <br>
 

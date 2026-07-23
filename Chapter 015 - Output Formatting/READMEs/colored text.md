@@ -40,7 +40,7 @@ std::cout << "\033[38;2;255;0;0m" << "This text is gonna be in red color." << "\
 ```
 In this, the **RGB value** is (255, 0, 0), which is the red color. When you print a text, it will be in red color in the terminal. It'll look like this:  
 
-![Red Text Example](/assets/rgb-red-example.png)
+![Red Text Example](../assets/rgb-red-example.png)
 
 *Cool, right?*  
 *If you don't think this is cool, then you are the one who's not cool.*
