@@ -1,13 +1,16 @@
 #include <iostream>
-#include <iomanip>
 
 int main() {
-    std::cout << "┌────────────┬────────┐" << std::endl;
-    std::cout << "│ " << std::left << std::setw(10) << "Name" << " │ " << std::setw(6) << "Score" << " │" << std::endl;
-    std::cout << "├────────────┼────────┤" << std::endl;
-    std::cout << "│ " << std::left << std::setw(10) << "Alex" << " │ " << std::setw(6) << 2450 << " │" << std::endl;
-    std::cout << "│ " << std::left << std::setw(10) << "Sam" << " │ " << std::setw(6) << 1820 << " │" << std::endl;
-    std::cout << "└────────────┴────────┘" << std::endl;
 
-    return 0;
+  std::cout << "\033[1m" << "I am a bold text" << "\033[0m" << std::endl;
+
+  std::cout << "\033[2m" << "I am a dimmed text" << "\033[0m" << std::endl;
+
+  std::cout << "\033[3m" << "I am an italic text" << "\033[0m" << std::endl;
+
+  std::cout << "\033[4m" << "I am underlined, ain't I?" << "\033[0m" << std::endl;
+
+  std::cout << "\033[9m" << "I think I am striked out" << "\033[0m" << std::endl;
+
+  return 0;
 }

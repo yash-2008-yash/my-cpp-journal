@@ -16,7 +16,7 @@ In the place of `<code>`, use these:
 - `2` for dim text
 - `3` for italic text *(not supported everywhere)*
 - `4` for underline text
-- `5` for strikethrough text
+- `9` for strikethrough text
 
 <br>
 
